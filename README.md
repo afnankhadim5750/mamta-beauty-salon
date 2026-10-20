@@ -1,6 +1,6 @@
 # Mamta Beauty Salon
 
-Demo website concept for **Mamta Beauty Salon** — Montreal, Canada.
+Demo website concept for **Mamta Beauty Salon** — Montreal, QC.
 
 Live preview: https://mamta-beauty-salon-mockup.netlify.app
 

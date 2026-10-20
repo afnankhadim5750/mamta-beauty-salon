@@ -200,3 +200,18 @@ footer .fbottom{border-top:1px solid #453d31;padding:22px;font-size:12px;color:#
   #nav-toggle:checked + .nav-toggle-label + nav.main-nav{display:flex}
   .btn-outline{margin-left:0;margin-top:12px}
 }
+
+/* --- Homepage enrichment (added sections) --- */
+
+.enrich-about{background:var(--white)}
+.enrich-about img{height:auto}
+.enrich-experience{background:var(--ivory)}
+.enrich-faq{background:var(--white);border-top:1px solid var(--gold-faint)}
+.enrich-faq-wrap{max-width:820px}
+.enrich-faq-list{display:grid;gap:14px;text-align:left}
+.enrich-faq-list details{background:var(--ivory);border:1px solid var(--gold-faint);border-radius:6px;padding:20px 26px}
+.enrich-faq-list summary{font-family:'Playfair Display',serif;font-weight:600;font-size:18px;cursor:pointer;color:var(--charcoal)}
+.enrich-faq-list details p{color:var(--muted);margin-top:10px;font-size:15px}
+.enrich-gallery img{height:auto;width:100%}
+@media(max-width:640px){.enrich-faq-list details{padding:18px 20px}}
+
